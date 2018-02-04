@@ -1,6 +1,6 @@
-# Guia  Vue.js Server-Side Rendering 
+# Vue.js Server-Side Rendering Guide
 
-> **Nota:** Esse guia exige as versões mínimas do Vue e seus bibliotecas:
+> **Note:** this guide requires the following minimum versions of Vue and supporting libraries:
 > - vue & vue-server-renderer 2.3.0+
 > - vue-router 2.5.0+
 > - vue-loader 12.0.0+ & vue-style-loader 3.0.0+
